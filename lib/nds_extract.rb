@@ -52,7 +52,7 @@ def total_gross(source)
   total_each_director = directors_totals(source)
   director_list = list_of_directors(source)
 
-  pp total_each_director
+  pp total_each_director[director_list[0]]
 
 
 
