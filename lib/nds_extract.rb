@@ -59,7 +59,7 @@ def total_gross(source)
     grand_total += total_each_director[director]
 
    }
-   
+
    grand_total
 
 end
