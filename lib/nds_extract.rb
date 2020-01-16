@@ -58,14 +58,14 @@ def total_gross(source)
   while count < director_list.size do
 
       grand_total += total_each_director[count]
-      
+
     count+=1
   end
 
   # director_list.each { |director|
-  # 
+  #
   #   grand_total += total_each_director[director]
-  # 
+  #
   #  }
 
    grand_total
