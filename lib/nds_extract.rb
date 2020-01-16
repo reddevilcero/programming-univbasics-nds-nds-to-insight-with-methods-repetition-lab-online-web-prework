@@ -63,7 +63,7 @@ def total_gross(source)
   end
 
     # Clean implementation
-    
+
   # director_list.each { |director|
   #
   #   grand_total += total_each_director[director]
