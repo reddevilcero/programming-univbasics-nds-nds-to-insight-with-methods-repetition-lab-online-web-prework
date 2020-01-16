@@ -54,13 +54,13 @@ def total_gross(source)
 
   grand_total = 0
 
-  director_list.each { |director| 
-    
+  director_list.each { |director|
+
     pp total_each_director[director]
-    
+
    }
 
-  
+
 
 
 
